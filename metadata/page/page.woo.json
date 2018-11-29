@@ -1,0 +1,13 @@
+{
+  "_id": "page.woo",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.woo--text.auto_name__1",
+      "_type": "text",
+      "label": "What’s my name?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "woo"
+}
