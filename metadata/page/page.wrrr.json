@@ -1,0 +1,41 @@
+{
+  "_id": "page.wrrr",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.wrrr--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.wrrr--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes, I think so",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.wrrr--radios.auto_name__2--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.wrrr--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "I'm not sure when a fee was paid",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "Did you pay fees between April 2007 and March 2017?",
+      "name": "auto_name__2"
+    }
+  ],
+  "extraComponents": [
+    {
+      "_id": "page.wrrr--details",
+      "_type": "details",
+      "html": "ANd whatevs",
+      "summary": "Summat goes here"
+    }
+  ],
+  "url": "wrrr"
+}
