@@ -1,0 +1,65 @@
+{
+  "_id": "page.aboutyou",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.aboutyou--text.auto_name__4",
+      "_type": "text",
+      "hint": "For example, Mr, Mrs, Ms",
+      "label": "Title",
+      "name": "auto_name__4",
+      "widthClassInput": "3"
+    },
+    {
+      "_id": "page.aboutyou--text.auto_name__5",
+      "_type": "text",
+      "label": "First (and middle) names",
+      "name": "auto_name__5"
+    },
+    {
+      "_id": "page.aboutyou--text.auto_name__6",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page.aboutyou--date.auto_name__7",
+      "_type": "date",
+      "hint": "For example, 31 3 1970",
+      "label": "Date of birth",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.aboutyou--content",
+      "_type": "content",
+      "html": "Current address"
+    },
+    {
+      "_id": "page.aboutyou--text.auto_name__8",
+      "_type": "text",
+      "label": "Address line 1",
+      "name": "auto_name__8"
+    },
+    {
+      "_id": "page.aboutyou--text.auto_name__9",
+      "_type": "text",
+      "label": "Address line 2 (optional)",
+      "name": "auto_name__9"
+    },
+    {
+      "_id": "page.aboutyou--text.auto_name__10",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__10"
+    },
+    {
+      "_id": "page.aboutyou--text.auto_name__11",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__11"
+    }
+  ],
+  "heading": "Your details",
+  "lede": "Name",
+  "url": "aboutyou"
+}

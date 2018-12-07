@@ -21,6 +21,7 @@
         {
           "_id": "page.wrrr--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
+          "hint": "You can make a claim even if you're not sure exactly when the fees were paid.  We will check the information you give against our records and confirm if you are entitled to a refund.",
           "label": "I'm not sure when a fee was paid",
           "value": "auto_value__3"
         }
@@ -33,8 +34,8 @@
     {
       "_id": "page.wrrr--details",
       "_type": "details",
-      "html": "ANd whatevs",
-      "summary": "Summat goes here"
+      "html": "You can make a claim even if you're not sure exactly when the fees were paid.\r\n\r\nWe will check the information you give against our records and confirm if you are entitled to a refund.",
+      "summary": "If you're not sure when a fee was paid"
     }
   ],
   "url": "wrrr"

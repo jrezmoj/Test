@@ -1,0 +1,12 @@
+{
+  "_id": "page.bla3",
+  "_type": "page.content",
+  "body": "There is no need to make a claim if you are the deputy and still paying supervision fees. You will be refunded any money due as part of your annual supervision fee calculation.",
+  "heading": "You can't claim a refund",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "bla3"
+}

@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "## Who can claim a refund\r\n\r\nYou can make a claim if you’re:\r\n\r\n* the ‘executor’ - the person who…\r\n* the administrator, if there is no administrator - the person who…\r\n\r\nA family member may make a claim if there is no executor or administrator.\r\nYou will need to show …\r\n\r\nThe refund must be paid to the estate.\r\n\r\n## How much you’ll get\r\nHow much you get depends on when you paid the fees. You’ll also get 0.5% interest.\r\n\r\nYou can still claim a refund even if you don’t know when you paid the fees.\r\n\r\n[click here](#) for more information on how much you'll likely get\r\n\r\n## How to claim\r\nIt takes about 10 minutes to claim online.\r\n\r\nBefore you claim you’ll need:\r\n* the will or grant of probate document \r\nIf you don't have it, you may be able to [Find the person's  will or probate document online](https://www.gov.uk/search-will-probate)\r\nthe donor’s UK bank account number and sort code\r\n* something else\r\n\r\nIf you need help or more information to claim online then you can call the Refunds Helpline.",
+  "body": "## Who can claim a refund\r\n\r\nThere is no need to make a claim if you are the deputy and still paying supervision fees. You will be refunded any money due as part of your annual supervision fee calculation.\r\n\r\nIf the person has died, you can make a claim if you’re:\r\n\r\n* the executor of the will\r\n* the administrator of the estate, if there is no administrator\r\n\r\nA family member may make a claim if there is no executor or administrator.\r\nYou will need to show …\r\n\r\nThe refund must be paid to the estate.\r\n\r\n## How much you’ll get\r\nHow much you get depends on when you paid the fees. You’ll also get 0.5% interest.\r\n\r\nYou can still claim a refund even if you don’t know when you paid the fees.\r\n\r\n[click here](#) for more information on how much you'll likely get\r\n\r\n## How to claim\r\nIt takes about 10 minutes to claim online.\r\n\r\nBefore you claim you’ll need:\r\n* the will or grant of probate document \r\nIf you don't have it, you may be able to [Find the person's  will or probate document online](https://www.gov.uk/search-will-probate)\r\nthe donor’s UK bank account number and sort code\r\n* something else\r\n\r\nIf you need help or more information to claim online then you can call the Refunds Helpline.",
   "components": [
     {
       "_id": "page.start--inset",
@@ -10,14 +10,16 @@
     }
   ],
   "heading": "Claim a deputyship supervision refund online",
-  "lede": "You can get part of your supervision fee back if you've overpaid assessment and supervisions fees from 1 April 2007 to 31 March 2017. **** This applies to lasting powers of attorney (LPA) and enduring powers of attorney (EPA).  You must claim your refund by 1 February 2021.****",
+  "lede": "You can get part of your supervision fee back if you've overpaid assessment and supervisions fees from 1 April 2007 to 31 March 2017.  You must claim your refund by 1 February 2021.",
   "steps": [
-    "page.woo",
     "page.wrrr",
     "page.bla",
+    "page.bla1",
+    "page.bla3",
     "page.wrrra",
     "page.check",
-    "page.confirmation"
+    "page.confirmation",
+    "page.aboutyou"
   ],
   "url": "/"
 }

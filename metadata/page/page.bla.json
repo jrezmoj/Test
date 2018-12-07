@@ -1,9 +1,8 @@
 {
   "_id": "page.bla",
   "_type": "page.content",
-  "body": "Unfortunately, based on your selection we can't help you online - please call support",
-  "heading": "Soz",
-  "lede": "Result",
+  "body": "Refunds are only for fees paid between April 2007 and March 2017.",
+  "heading": "You can't claim a refund",
   "show": {
     "identifier": "auto_name__2",
     "operator": "is",
