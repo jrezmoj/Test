@@ -17,6 +17,12 @@
           "_type": "radio",
           "label": "I'm the administrator of the estate",
           "value": "auto_value__2"
+        },
+        {
+          "_id": "page.wrrra--radios.auto_name__3--radio.auto_value__2--3",
+          "_type": "radio",
+          "label": "Other",
+          "value": "auto_value__2"
         }
       ],
       "legend": "About you",

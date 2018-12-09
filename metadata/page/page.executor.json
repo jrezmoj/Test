@@ -1,0 +1,50 @@
+{
+  "_id": "page.executor",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page. executor--text.auto_name__4",
+      "_type": "text",
+      "hint": "For example, Mr, Mrs, Ms",
+      "label": "Title",
+      "name": "auto_name__4",
+      "widthClassInput": "3"
+    },
+    {
+      "_id": "page. executor--text.auto_name__5",
+      "_type": "text",
+      "label": "First (and middle) names",
+      "name": "auto_name__5"
+    },
+    {
+      "_id": "page. executor--text.auto_name__6",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page. executor--date.auto_name__7",
+      "_type": "date",
+      "hint": "For example, 31 3 1970",
+      "label": "Date of birth",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.executor--date.auto_name__12",
+      "_type": "date",
+      "hint": "For example, 31 3 1970",
+      "label": "Date of death",
+      "name": "auto_name__12"
+    },
+    {
+      "_id": "page.executor--fileupload.auto_name__13",
+      "_type": "fileupload",
+      "hint": "Please upload a copy of the death certificate",
+      "label": "Death certificate",
+      "name": "auto_name__13"
+    }
+  ],
+  "heading": "Deceased person's details",
+  "lede": "Name",
+  "url": "executor"
+}
