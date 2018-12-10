@@ -9,7 +9,7 @@
       "html": "Refunds Helpline  \r\nEmail: supervisionrefunds@justice.gov.uk  \r\nTelephone: 0300 456 0300 (choose option 6)  \r\nTextphone: 0115 934 2778  \r\nMonday, Tuesday, Thursday, Friday 9am to 5pm  \r\nWednesday 10am to 5pm"
     }
   ],
-  "heading": "Claim a deputyship supervision refund online",
+  "heading": "----------Demo only---------- Claim a deputyship supervision refund online",
   "lede": "You can get part of your supervision fee back if you've overpaid assessment and supervisions fees from 1 April 2007 to 31 March 2017.  You must claim your refund by 1 February 2021.",
   "steps": [
     "page.wrrr",
@@ -17,8 +17,8 @@
     "page.bla1",
     "page.bla3",
     "page.wrrra",
-    "page.aboutyou",
     "page.executor",
+    "page.aboutyou",
     "page.check",
     "page.confirmation"
   ],
